@@ -1,2 +1,2 @@
-# Mirian Torre React Portfolio Applicarion
+# Mirian Torre React Portfolio Application
 
